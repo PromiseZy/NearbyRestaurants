@@ -28,4 +28,5 @@
 ![image](https://user-images.githubusercontent.com/89379680/211832099-bdae0ad0-0ec9-4d51-8bef-7754b7a0a12e.png)
 ## กรณีไม่ใช่หน้าแรกและไม่มีหน้าต่อไปจะมีปุ่ม previous แสดง <br />
 ![image](https://user-images.githubusercontent.com/89379680/211832273-579e7216-e44e-40e5-83b6-4e90f19a7e6e.png)
-
+## กรณีกดที่Boxของร้านจะมี ข้อความเด้งขึ้นมาแสดงรายละเอียดของร้าน <br />
+![image](https://user-images.githubusercontent.com/89379680/211837538-d95b6b21-6693-4d21-820b-1dcf4e090e1b.png)
