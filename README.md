@@ -21,3 +21,10 @@
 ### (สามารถทำงานร่วมกับการเลือกประเภทร้านได้)
 ![image](https://user-images.githubusercontent.com/89379680/211831533-028e1062-4c9e-429a-a344-973c20173f7b.png)
 
+## กรณีเป็นหน้าแรกและมีหน้าต่อไปจะมีปุ่ม next แสดง <br />
+![image](https://user-images.githubusercontent.com/89379680/211831942-48819369-8efd-41c9-bdbd-4419574a06ff.png)
+## กรณีไม่ใช่หน้าแรกและมีหน้าต่อไปจะมีปุ่ม nextและprevious แสดง <br />
+![image](https://user-images.githubusercontent.com/89379680/211832099-bdae0ad0-0ec9-4d51-8bef-7754b7a0a12e.png)
+## กรณีไม่ใช่หน้าแรกและไม่มีหน้าต่อไปจะมีปุ่ม previous แสดง <br />
+![image](https://user-images.githubusercontent.com/89379680/211832273-579e7216-e44e-40e5-83b6-4e90f19a7e6e.png)
+
