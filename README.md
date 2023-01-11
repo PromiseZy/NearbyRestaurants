@@ -9,3 +9,8 @@
 ตัวอย่างการทำงานของเว็ปไซต์<br />
 ## หน้าหลัก
 ![1](https://user-images.githubusercontent.com/89379680/211829623-1513f9ac-d014-482c-b77c-7732fa62745e.png)
+<br />
+
+## หน้าหลักกรณี Mobile<br />
+ตรงรูปภาพสามารถเลื่อนได้ <br />
+![image](https://user-images.githubusercontent.com/89379680/211830958-71097b04-c74f-4ef5-8084-b922e8d8384a.png)
