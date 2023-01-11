@@ -1,0 +1,110 @@
+.container{
+  border-radius: 5px;
+  max-width: 500px;
+  display: grid;
+  margin: 120px auto;
+  grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+  grid-gap: 100px;
+  padding: 20px 10px 30px 40px; /* Sets padding for top, right, bottom, and left sides, in that order */
+  margin: 10px 20px; /* Sets margin for top and bottom, and uses the same value for left and right */
+}
+.content-con:first-child, .content-con:last-child{
+  padding: 1.5rem;
+}
+
+.content-con{
+  justify-content: space-between;
+
+}
+.content-l{
+  display: flex;
+  
+  width: 100px;
+  height: 100px;
+}
+.content-l img {
+    flex-grow: 0;
+    width: 100px;
+    border-radius: 25px;
+  }
+.content-b{
+  padding: 1.5rem;
+  display: flex
+}
+.content-b img {
+    width: 130px;
+    height: 130px;
+    
+
+
+}
+.NavPage {
+  width: 100%;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+}
+.content-r{
+  display: flex;
+  width: 50%;
+  text-align: left;
+  flex-direction: column;
+}
+.content-b-m{
+  display: none;
+}
+
+.circle-text {
+  background-color: yellow;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  text-align: center;
+}
+@media screen and (max-width: 480px) {
+  .content-b{
+    display: none
+  }
+
+  ::-webkit-scrollbar{
+    width: 0px;
+  }
+  .content-b img {
+    display: none
+      
+  }
+  .container{
+    max-width: 300px;
+    margin: 50px 50px; /* Sets margin for top and bottom, and uses the same value for left and right */
+  }
+  .content-box{
+    width: 500;
+    height: 480;
+  }
+
+  .content-b-m{
+    border-radius: 25px;
+    padding: 1.5rem;
+    display: flex;
+    overflow: scroll;
+  }
+  .content-b-m img {
+    border-radius: 25px;
+      width: 130px;
+      height: 130px;
+  }
+
+  .Box{
+    width: 130px;
+      height: 130px;
+  }
+}
+
